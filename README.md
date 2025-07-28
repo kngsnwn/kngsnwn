@@ -1,61 +1,113 @@
-# Kiko Now
+# Hi there, I'm kngsnwn 👋
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md).*
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Creating+awesome+projects)](https://git.io/typing-svg)
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+</div>
 
-**Kiko Now** is a Jekyll theme based on **[Jekyll Now](https://github.com/barryclark/jekyll-now)**, following the philosophy of **Jekyll Now**, which makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+## 🚀 About Me
 
-![Kiko Now Theme Screenshot](/images/kiko-now-theme-screenshot.png "Kiko Now Theme Screenshot")
+- 🔭 I'm currently working on web development projects
+- 🌱 I'm always learning and exploring new technologies
+- 💬 Ask me about JavaScript, React, Node.js, and web development
+- 📫 How to reach me: [Your contact info]
+- ⚡ Fun fact: I love creating beautiful and functional web experiences
 
-## Quick Start
+## 🛠️ Tech Stack
 
-### Step 1) Fork Jekyll Now to your User Repository
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Step 2) Customize and view your site
+## 📊 GitHub Stats
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
+<div align="center">
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kngsnwn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-There are 3 different ways that you can make changes to your blog's files:
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kngsnwn&theme=radical&hide_border=true)
 
-1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
-2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-3. Clone down your repository and make updates locally, then push them to your GitHub repository.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kngsnwn&layout=compact&theme=radical&hide_border=true)
 
-![_config.yml](/images/config.png "_config.yml")
+</div>
 
-### Step 3) Publish your first blog post
+## 🏆 Featured Projects
 
-Edit `/_posts/2017-10-08-hello-world.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+### 🌟 [Kiko Now Jekyll Theme](https://github.com/kngsnwn/kngsnwn)
+A beautiful Jekyll theme based on Jekyll Now, making it easier to create your Jekyll blog with minimal setup.
 
-![First Post](/images/post-screenshot.png "First Post")
+**Tech Stack:** Jekyll • SCSS • HTML • Liquid
 
-You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+### 🔧 [Project Name 2]
+Brief description of your second project.
 
-#### Frontmatter
-```
+**Tech Stack:** Your • Tech • Stack
+
+### 💡 [Project Name 3]
+Brief description of your third project.
+
+**Tech Stack:** Your • Tech • Stack
+
+## 📈 Activity Graph
+
+![Your GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kngsnwn&theme=react-dark&hide_border=true)
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+
+</div>
+
 ---
-layout: post
-title: "post title"
-tags: [tag1, tag2, tag3]
-comments: true
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔥 Profile Views
+![](https://komarev.com/ghpvc/?username=kngsnwn&color=brightgreen&style=flat-square&label=Profile+Views)
+
+**Thanks for visiting! ⭐️ Star some repositories if you find them interesting!**
+
+</div>
+
 ---
+
+## 🎯 Quick Setup Guide for This Theme
+
+This repository contains a Jekyll blog theme. To use it:
+
+1. **Fork** this repository
+2. **Rename** it to `yourusername.github.io`
+3. **Edit** `_config.yml` with your information
+4. **Customize** your content in `_posts/`
+5. **Deploy** automatically via GitHub Pages
+
+### Local Development
+```bash
+gem install github-pages
+git clone https://github.com/yourusername/yourusername.github.io.git
+cd yourusername.github.io
+jekyll serve
 ```
 
-## Local Development
-
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at http://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
-
-## Questions?
-
-[Open an Issue](https://github.com/aweekj/kiko-now/issues/new) and let's chat!
+Visit `http://127.0.0.1:4000/` to see your site locally.
